@@ -13,4 +13,4 @@ pip3 install -r requirements.txt\
 python3 server.py\
 python3 client.py\
 \
-Type the last command an arbitrary number of times.
+Open a new terminal tab/window and type the last command. You can repeat the last action an arbitrary number of times.
