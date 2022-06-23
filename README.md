@@ -3,7 +3,7 @@ Client/server chat room  app with triple AES-256 encryption\
 \
 \
 \
-Run following commands in your terminal to run this python application:\
+Run the following commands in your terminal to run this Python application:\
 \
 git clone https://github.com/sinisabubonja/Chat-Room-App.git \
 python3 -m venv Chat-Room-App\
